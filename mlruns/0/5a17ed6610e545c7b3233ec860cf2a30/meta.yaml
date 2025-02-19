@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projects/TextSummarizer/mlruns/0/5a17ed6610e545c7b3233ec860cf2a30/artifacts
+end_time: 1739978862627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a17ed6610e545c7b3233ec860cf2a30
+run_name: artifacts/model_trainer
+run_uuid: 5a17ed6610e545c7b3233ec860cf2a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739976359347
+status: 3
+tags: []
+user_id: asus
